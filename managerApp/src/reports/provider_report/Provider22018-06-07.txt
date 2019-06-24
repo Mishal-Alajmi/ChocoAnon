@@ -1,0 +1,9 @@
+Provider Name: Provider2
+Provider id: 892024985
+Provider address: 26 Woodside Court
+Provider city: East Northasda
+Provider state: NY
+Provider zip: 11731
+
+Total sales: 0
+Total fees: 0

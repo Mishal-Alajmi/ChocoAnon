@@ -1,0 +1,16 @@
+Provider Name: Provider1
+Provider id: 629842800
+Provider address: 192 Mill Pond Rd.
+Provider city: Biloxi
+Provider state: MS
+Provider zip: 39532
+
+Service date: 06/07/2018
+Service received: 2018-06-07 19:36:51.335117
+Member: Member2
+Member id: 815245241
+Service code: 123456
+Service fee (cents): 99.99
+
+Total sales: 1
+Total fees: 99.99

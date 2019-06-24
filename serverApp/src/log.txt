@@ -1,0 +1,567 @@
+[3J[H[2J[3J[H[2JServer active, waiting for client connection
+[+] Client connected
+Exec get on members with key level: root and data: 00000';DROP TABLE members;
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'id': 'a', 'level': 'b', 'name': 'c'}
+Exec get all on keys with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'id': 'a', 'level': 'b'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+Exec truncate on keys with key level: root and data: 
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asdf
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f', 'status': 'STATUS_UNBANNED'}
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f', 'status': 'STATUS_UNBANNED'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f', 'status': 'STATUS_UNBANNED'}
+Exec get all on members with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+Exec truncate on members with key level: root and data: 
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asdf
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec get all on menu with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+Exec truncate on menu with key level: root and data: 
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asdf
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec get all on providers with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e'}
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on providers with key level: root and data: 
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+Exec truncate on providers with key level: root and data: 
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asdf
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec get all on services with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f'}
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asdf
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'id': 'a', 'level': 'b', 'name': 'c'}
+Exec get on keys with key level: root and data: a
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'id': 'a', 'level': 'b', 'name': 'c'}
+Exec get on keys with key level: root and data: b
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'id': 'a', 'level': 'b', 'name': 'c'}
+A
+B
+class
+D
+E
+F
+G
+74d2405e796bc059d22101aea21d770482fa3c57b37baa593e2937c24a2b7290:44122f1a549c4a1687dbef238cfa3f7f
+H
+Exec failed, unauthorized key: asdf
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f', 'status': 'STATUS_UNBANNED'}
+Exec get on members with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec get on members with key level: root and data: b
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+A
+B
+class
+D
+E
+F
+G
+74d2405e796bc059d22101aea21d770482fa3c57b37baa593e2937c24a2b7290:44122f1a549c4a1687dbef238cfa3f7f
+H
+Exec failed, unauthorized key: asdf
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec get on menu with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec get on menu with key level: root and data: b
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+A
+B
+class
+D
+E
+F
+G
+74d2405e796bc059d22101aea21d770482fa3c57b37baa593e2937c24a2b7290:44122f1a549c4a1687dbef238cfa3f7f
+H
+Exec failed, unauthorized key: asdf
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec get on providers with key level: root and data: a
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec get on providers with key level: root and data: b
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+A
+B
+class
+D
+E
+F
+G
+74d2405e796bc059d22101aea21d770482fa3c57b37baa593e2937c24a2b7290:44122f1a549c4a1687dbef238cfa3f7f
+H
+Exec failed, unauthorized key: asdf
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec get on services with key level: root and data: a
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec get on services with key level: root and data: b
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+A
+B
+class
+D
+E
+F
+G
+74d2405e796bc059d22101aea21d770482fa3c57b37baa593e2937c24a2b7290:44122f1a549c4a1687dbef238cfa3f7f
+H
+Exec failed, unauthorized key: asdf
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'uak': 'a', 'level': 'b', 'name': 'c'}
+Exec remove on keys with key level: root and data: a
+Exec get on keys with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'uak': 'a', 'level': 'b', 'name': 'c'}
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec remove on members with key level: root and data: a
+Exec get on members with key level: root and data: a
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec remove on menu with key level: root and data: a
+Exec get on menu with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec remove on providers with key level: root and data: a
+Exec get on providers with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec remove on services with key level: root and data: a
+Exec get on services with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'id': 'a', 'level': 'b', 'name': 'c'}
+Exec set on keys with key level: root and data: {'id': 'a', 'data': {'name': 'c'}}
+#####################################################################################################################################################################################################################################################################################
+A
+B
+Exec get on keys with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec add on keys with key level: root and data: {'id': 'a', 'level': 'b', 'name': 'c'}
+A
+B
+class
+D
+E
+F
+G
+229c8ab77fc2a25fd4e8b83881ec06fdada246877c96af842df2c8cdd4988cf6:bb9e48b3da764095be2f0e925f3f21cc
+H
+Exec failed, unauthorized key: asdf
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f', 'status': 'STATUS_UNBANNED'}
+Exec add on members with key level: root and data: {'id': 'b', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f', 'status': 'STATUS_UNBANNED'}
+Exec set on members with key level: root and data: {'id': 'a', 'data': {'id': 'b'}}
+#####################################################################################################################################################################################################################################################################################
+A
+C
+D
+A
+B
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f', 'status': 'STATUS_UNBANNED'}
+Exec set on members with key level: root and data: {'id': 'a', 'data': {'name': 'c'}}
+#####################################################################################################################################################################################################################################################################################
+A
+B
+Exec get on members with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec add on members with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+A
+B
+class
+D
+E
+F
+G
+229c8ab77fc2a25fd4e8b83881ec06fdada246877c96af842df2c8cdd4988cf6:bb9e48b3da764095be2f0e925f3f21cc
+H
+Exec failed, unauthorized key: asdf
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec add on menu with key level: root and data: {'id': 'b', 'name': 'b', 'fee': '100'}
+Exec set on menu with key level: root and data: {'id': 'a', 'data': {'id': 'b'}}
+#####################################################################################################################################################################################################################################################################################
+A
+C
+D
+A
+B
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+Exec set on menu with key level: root and data: {'id': 'a', 'data': {'name': 'c'}}
+#####################################################################################################################################################################################################################################################################################
+A
+B
+Exec get on menu with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec add on menu with key level: root and data: {'id': 'a', 'name': 'b', 'fee': '100'}
+A
+B
+class
+D
+E
+F
+G
+229c8ab77fc2a25fd4e8b83881ec06fdada246877c96af842df2c8cdd4988cf6:bb9e48b3da764095be2f0e925f3f21cc
+H
+Exec failed, unauthorized key: asdf
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec add on providers with key level: root and data: {'id': 'b', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec set on providers with key level: root and data: {'id': 'a', 'data': {'id': 'b'}}
+#####################################################################################################################################################################################################################################################################################
+A
+C
+D
+A
+B
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+Exec set on providers with key level: root and data: {'id': 'a', 'data': {'name': 'c'}}
+#####################################################################################################################################################################################################################################################################################
+A
+B
+Exec get on providers with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec add on providers with key level: root and data: {'id': 'a', 'name': 'b', 'address': 'c', 'city': 'd', 'state': 'e', 'zip': 'f'}
+A
+B
+class
+D
+E
+F
+G
+229c8ab77fc2a25fd4e8b83881ec06fdada246877c96af842df2c8cdd4988cf6:bb9e48b3da764095be2f0e925f3f21cc
+H
+Exec failed, unauthorized key: asdf
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec add on services with key level: root and data: {'id': 'b', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec set on services with key level: root and data: {'id': 'a', 'data': {'id': 'b'}}
+#####################################################################################################################################################################################################################################################################################
+A
+C
+D
+A
+B
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+Exec set on services with key level: root and data: {'id': 'a', 'data': {'name': 'c'}}
+#####################################################################################################################################################################################################################################################################################
+A
+B
+Exec get on services with key level: root and data: a
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on services with key level: root and data: 
+Exec add on services with key level: root and data: {'id': 'a', 'code': 'b', 'provider': 'c', 'member': 'd', 'comment': 'e', 'status': 'f', 'date': 'g'}
+A
+B
+class
+D
+E
+F
+G
+229c8ab77fc2a25fd4e8b83881ec06fdada246877c96af842df2c8cdd4988cf6:bb9e48b3da764095be2f0e925f3f21cc
+H
+Exec failed, unauthorized key: asdf
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on keys with key level: root and data: 
+Exec get all on keys with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on members with key level: root and data: 
+Exec get all on members with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on menu with key level: root and data: 
+Exec get all on menu with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec truncate on providers with key level: root and data: 
+Exec get all on providers with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[+] Client connected
+[-] Client disconnected.
+Exec truncate on services with key level: root and data: 
+Exec get all on services with key level: root and data: 
+[-] Client disconnected.
+[+] Client connected
+Exec failed, unauthorized key: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+A
+B
+class
+D
+E
+Exec failed, unauthorized key: asd
+[+] Client connected
+[-] Client disconnected.
+A
+Exec validate key on keys with key level: invalid and data: AS62ELRB5F0709LERPHZD06JWC0P8QSC
+{'error': 'No error', 'result': 'root'}
+A
+Exec validate key on keys with key level: invalid and data: DDPR0TG8EF760QR2J7IUF3UFIRXXL4E3
+{'error': 'No error', 'result': 'provider'}
+A
+Exec validate key on keys with key level: invalid and data: asdfasdf
+A
+B
+class
+D
+E
+{'error': 'No error', 'result': 'invalid'}
+[-] Client disconnected.

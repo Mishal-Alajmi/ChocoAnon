@@ -1,0 +1,12 @@
+Provider Name: Provider1
+Provider id: 629842800
+Services rendered :1
+Total fees: 99.99
+
+Provider Name: Provider2
+Provider id: 892024985
+Services rendered :0
+Total fees: 0
+
+Total number of providers with sales: 1
+Total cumulative fees (cents): 99.99
